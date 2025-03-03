@@ -1,6 +1,6 @@
 # Rainfall Prediction Classifier
 
-# **Objective**
+**Objective**
 
 The goal of this project is to develop a classification model that predicts rainfall based on historical weather data. The key steps involved in this process include:
 
